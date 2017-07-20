@@ -50,6 +50,12 @@ Linear regression. The sixth filter performs linear regression upon the Hough de
 
 ![alt text][image5]
 
+For a video example of the result, please check the following links:
+
+[solidYellowLeft](https://github.com/josealb/CarND-LaneLines-P1/blob/master/test_videos_output/solidYellowLeft.mp4)
+
+[solidWhiteRight](https://github.com/josealb/CarND-LaneLines-P1/blob/master/test_videos_output/solidWhiteRight.mp4)
+
 
 ### 2. Potential shortcomings with  current pipeline
 
