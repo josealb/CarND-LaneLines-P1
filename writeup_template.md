@@ -28,7 +28,7 @@ My pipeline consists of 6 steps
 
 Color filter. The first step is a filter to extract only white and yellow parts of the image that might correspond to lane lines
 
-[image2]: ./results/color.jpg "Color"
+[image2]: ./results/color.png "Color"
 
 Mask. The second step is a mask that filters out space where a line line could not be
 Gaussian Blur. The third steps adds gaussian blur to remove high frequency noise and prepare the image for edge detection
